@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+    <img width=400 height=300 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienpmw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=lua">
+    <img width=400 height=300 alt="TienPMw's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tienpmw&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+</div>
 
 <!--
 **tienpmw/tienpmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
