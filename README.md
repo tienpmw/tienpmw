@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://fb.com/true.blue.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="true.blue.26" height="48" width="48" /></a>
   <a href="https://github.com/tienpmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tienpmw" height="48" width="48" /></a>
+  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="tienpm" height="48" width="48" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
