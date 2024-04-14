@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Minh Tien</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 
+- 🔭 I’m currently working on Back-end Web Development
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/true.blue.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="true.blue.26" height="30" width="40" /></a>
