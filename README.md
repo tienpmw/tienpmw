@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Tien</h1>
 <h3 align="center">A passionate software developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on Software Development
+- 🔭 I’m currently working on Software Developer
 - 🌱 I’m currently learning .Net Core and ReactJS
 
 <h3 align="left">Connect with me:</h3>
